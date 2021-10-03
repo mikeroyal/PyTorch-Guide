@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770888-33dc24b8-f341-4bbe-a264-cf335273c587.png">
   <br />
   PyTorch Guide
 </h1>
@@ -9,12 +9,12 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770891-6b2074e1-7d11-4978-8c31-ffb6e5bea62a.png">
   <br />
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770894-8f07e3db-59f8-44cd-9105-cee2885aef8f.png">
   <br />
   Types of Neural Networks
 </p>
